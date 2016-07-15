@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b5e0af5-6723-40b8-be3a-927d0e347642" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/automated-build/README.md" afterPath="$PROJECT_DIR$/automated-build/README.md" />
     </list>
     <ignored path="docker-playing-with.iws" />
@@ -90,13 +88,13 @@
       </file>
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/automated-build/README.md">
-          <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
+          <provider editor-type-id="MarkdownFxPreviewEditor">
             <state />
           </provider>
-          <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="255">
-                <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+              <first_editor relative-caret-position="225">
+                <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -592,13 +590,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/automated-build/README.md">
-      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
       </provider>
-      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="255">
-            <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+          <first_editor relative-caret-position="225">
+            <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
             <folding />
           </first_editor>
           <second_editor />
