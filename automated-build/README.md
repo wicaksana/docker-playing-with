@@ -13,6 +13,8 @@ Steps:
 ![](../img/automated-build-02.png)
 5. Oops, I got an error! I made mistake. It shold be named after `Dockerfile`, instead of `dockerfile`. Rename it, commit, and repush. Now it is being queued:
 ![](../img/automated-build-03.png)
-
+6. After another few errors, finally I got succeed
+![](../img/automated-build-04.png)
+![](../img/automated-build-05.png)
 ### References:
 1. <a name="ref1"></a>[https://docs.docker.com/docker-hub/builds/](https://docs.docker.com/docker-hub/builds/)
