@@ -9,3 +9,4 @@ This is the documentation of my learning on Docker. All containers are hosted in
 
 ## References
 1. [Mastering Docker](https://www.packtpub.com/virtualization-and-cloud/mastering-docker)
+2. [Ansible: Up and Running](http://shop.oreilly.com/product/0636920035626.do)

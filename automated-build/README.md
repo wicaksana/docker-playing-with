@@ -3,7 +3,7 @@ Bitbucket repository.
 
 - Github repository: [docker-automated-build](https://github.com/wicaksana/docker-automated-build)
 - Docker Hub repository: [wicaksana/ubuntu-automated](https://hub.docker.com/r/wicaksana/ubuntu-automated/)
-
+.
 ### Steps:
 
 1. Too lazy to write the initial steps, so refer to [\[1\]](#ref1), up to Section [Understand the build process](https://docs.docker.com/docker-hub/builds/#/understand-the-build-process)
